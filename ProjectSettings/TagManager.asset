@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cadeado
+  - Undefined
+  - Cadeado1
+  - Cadeado2
+  - Brotou
+  - feijao
+  - SeivaForce
+  - "For\xE7aAgua"
+  - Mordida
+  - Zerou
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 580810539
+    locked: 0
+  - name: meio
+    uniqueID: 4241984323
+    locked: 0
+  - name: frente
+    uniqueID: 185068707
+    locked: 0
+  - name: "transi\xE7\xF5es"
+    uniqueID: 2486880705
+    locked: 0

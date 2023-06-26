@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: 676189346fdd61c41b6b2dac0581f975
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_0"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1074
+        width: 162
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8df5a4072173c42af03cf9b5602b06
+      internalID: -1458433205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_1"
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 618
+        width: 231
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d914a3686ccbb654b86cc5e8098a8bc6
+      internalID: -984969272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_2"
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1075
+        width: 80
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d745b2ab8097c8b4eae39a4471244924
+      internalID: 923838848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_3"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 720
+        width: 228
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33daa517e685f204185064135970f2b3
+      internalID: 2040502849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_4"
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 708
+        width: 223
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e406ff483d0686498831bad57691827
+      internalID: 149488194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_5"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 774
+        width: 243
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae78ad2451f1f4418ec9db2ee43e247
+      internalID: 1770563770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_6"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1038
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeb9a852e3b5ca418e06fa663adf579
+      internalID: 959524101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_7"
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 748
+        width: 201
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec9cf58afdee464c8e92c3c775f2ed6
+      internalID: -1942068992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_8"
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 809
+        width: 219
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feee0b463ae4334a8e294be419eb2c4
+      internalID: -14560179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_9"
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1032
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7d68a25aa4dcc4781333e50f3160c4
+      internalID: 217882912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_10"
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1008
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c307148e7b4ba9145a1fa55dd18b1078
+      internalID: 1282092687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_11"
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 876
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce7028182c2b2f4da6e4fe3329ec578
+      internalID: -1742216239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_12"
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 864
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b83c79b9a60734888fda9bb1ce4a33
+      internalID: -535371222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_13"
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 748
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af5fd6ea40d87c42bfbd02cb83ed30e
+      internalID: 656224340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_14"
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 758
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb15b0a888edb2b48b90400a9c6c1597
+      internalID: 30844370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_15"
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 808
+        width: 4
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732731f4f0f7a434c95af549d7911b7a
+      internalID: -1236370763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_16"
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 808
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada3ac628018383479dad0b9094bda9a
+      internalID: -1311452911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_17"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 762
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f684141224935f489f45a0d21b6f46b
+      internalID: -219285135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_18"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 336
+        width: 235
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c17a970bd672a4fb56b3ebb9e462ee
+      internalID: 1464029303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_19"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 343
+        width: 219
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9ae22efdeea17498cd8d567e22b7d8
+      internalID: -1013739263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_20"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 351
+        width: 317
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd331a010b5506b4aa6f7ba36fbbf620
+      internalID: 1794520952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_21"
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 369
+        width: 234
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d002cef1717854fbb4f3a1011d7bda
+      internalID: -131805857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_22"
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 426
+        width: 24
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed210e938ec12844da5d1b0d6025f08e
+      internalID: -1893638471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_23"
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 366
+        width: 198
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e28ac5b4d81b7d4d8e100a23de8fbe5
+      internalID: -880575071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_24"
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 666
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2acdac39dfc51459f58429215ebcd1
+      internalID: -1972415087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_25"
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 369
+        width: 219
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe4506d5fb67244d859119b4948b812
+      internalID: -602465660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_26"
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 492
+        width: 6
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbffe95bf8b9a7a40a0d5b7682951d3f
+      internalID: 377154062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_27"
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 378
+        width: 5
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e745e6262820139428761d89d9e8f5b4
+      internalID: 796175747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_28"
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 368
+        width: 34
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e969fd126bd7ed419f18ff32c7bdbed
+      internalID: 237780949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_29"
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 462
+        width: 4
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcda97779bc260429f414870be0aca5
+      internalID: 2144978902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_30"
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 390
+        width: 29
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0cea3ff4efe184da1647e7fef2c056
+      internalID: 1221863207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_31"
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 408
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf4408e2cd29242994a76e90f85846
+      internalID: 527594174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_32"
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 378
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6442660c6bdbd6f47928549f33975eac
+      internalID: 689257136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_33"
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 368
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027f7b102b6c26a4fb73af9ab9fbb755
+      internalID: 1002080842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_34"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 336
+        width: 98
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e547b197ca0edb74a88feb9008f23ceb
+      internalID: -1906507960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_35"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 324
+        width: 397
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb672feb2da32e408c77c9764b711b0
+      internalID: 151364990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_36"
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 342
+        width: 117
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55953e80836f0ff4ebe52eb0267f4c8e
+      internalID: -2049065459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_37"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 221
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b420805f7054743b14c80d6fecbb7d
+      internalID: -1828493398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_38"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 222
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52861c0e16ba22f43be586c1cb69acb0
+      internalID: -1283918037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_39"
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 17
+        width: 230
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f0b7c689a44b6498576acc1b96e7b5
+      internalID: 925393066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_40"
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 17
+        width: 195
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70dbe61dbbcbc24c92aff8fe7aaee6e
+      internalID: -1452288080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_41"
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 276
+        width: 4
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3da8f8131ad9c642a9b0d4108fb62c1
+      internalID: 468752666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_42"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 246
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d05f2f34599bd409c930d9a479d3e4
+      internalID: 773770702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_43"
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 234
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180069c9e049adc42be08d6f11405020
+      internalID: 356369024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_44"
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 27
+        width: 221
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5572e72e58bb75942be06107e562d54c
+      internalID: -2017263584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_45"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 42
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46f4ed5a7b843e489619e27bd20a13a
+      internalID: -1202392626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_46"
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 30
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc17952daa4f4f0438d20d34410fefd9
+      internalID: -1555531008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_47"
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 26
+        width: 109
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdadc61e58face429fd34fe4bdeb960
+      internalID: -1981964609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_48"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 133
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0001072f72fb941a76a1df96f002bc
+      internalID: 330606083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_49"
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 16
+        width: 156
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd2edabc60dece4aa5506f62c440783
+      internalID: 1183799488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "feij\xE3o Poses_50"
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1751e98e3c5c74797981dcda31b684
+      internalID: -2041256038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "feij\xE3o Poses_0": -1458433205
+      "feij\xE3o Poses_1": -984969272
+      "feij\xE3o Poses_10": 1282092687
+      "feij\xE3o Poses_11": -1742216239
+      "feij\xE3o Poses_12": -535371222
+      "feij\xE3o Poses_13": 656224340
+      "feij\xE3o Poses_14": 30844370
+      "feij\xE3o Poses_15": -1236370763
+      "feij\xE3o Poses_16": -1311452911
+      "feij\xE3o Poses_17": -219285135
+      "feij\xE3o Poses_18": 1464029303
+      "feij\xE3o Poses_19": -1013739263
+      "feij\xE3o Poses_2": 923838848
+      "feij\xE3o Poses_20": 1794520952
+      "feij\xE3o Poses_21": -131805857
+      "feij\xE3o Poses_22": -1893638471
+      "feij\xE3o Poses_23": -880575071
+      "feij\xE3o Poses_24": -1972415087
+      "feij\xE3o Poses_25": -602465660
+      "feij\xE3o Poses_26": 377154062
+      "feij\xE3o Poses_27": 796175747
+      "feij\xE3o Poses_28": 237780949
+      "feij\xE3o Poses_29": 2144978902
+      "feij\xE3o Poses_3": 2040502849
+      "feij\xE3o Poses_30": 1221863207
+      "feij\xE3o Poses_31": 527594174
+      "feij\xE3o Poses_32": 689257136
+      "feij\xE3o Poses_33": 1002080842
+      "feij\xE3o Poses_34": -1906507960
+      "feij\xE3o Poses_35": 151364990
+      "feij\xE3o Poses_36": -2049065459
+      "feij\xE3o Poses_37": -1828493398
+      "feij\xE3o Poses_38": -1283918037
+      "feij\xE3o Poses_39": 925393066
+      "feij\xE3o Poses_4": 149488194
+      "feij\xE3o Poses_40": -1452288080
+      "feij\xE3o Poses_41": 468752666
+      "feij\xE3o Poses_42": 773770702
+      "feij\xE3o Poses_43": 356369024
+      "feij\xE3o Poses_44": -2017263584
+      "feij\xE3o Poses_45": -1202392626
+      "feij\xE3o Poses_46": -1555531008
+      "feij\xE3o Poses_47": -1981964609
+      "feij\xE3o Poses_48": 330606083
+      "feij\xE3o Poses_49": 1183799488
+      "feij\xE3o Poses_5": 1770563770
+      "feij\xE3o Poses_50": -2041256038
+      "feij\xE3o Poses_6": 959524101
+      "feij\xE3o Poses_7": -1942068992
+      "feij\xE3o Poses_8": -14560179
+      "feij\xE3o Poses_9": 217882912
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
